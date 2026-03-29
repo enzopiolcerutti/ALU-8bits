@@ -18,7 +18,7 @@ Não foi utilizado nenhum componente pronto de operação aritimética ao longo 
 
 Assista ao vídeo para uma explicação sobre o funcionamento da ALU, a estrutura dos circuitos e as decisões de projeto tomadas durante o desenvolvimento.
 
-> **Vídeo:** [Clique aqui para assistir]()
+> **Vídeo:** [Clique aqui para assistir](https://www.youtube.com/watch?v=GGGXcRowNjk)
 
 ---
 
